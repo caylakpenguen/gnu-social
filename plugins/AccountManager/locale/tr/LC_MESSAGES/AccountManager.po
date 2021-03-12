@@ -4,7 +4,6 @@
 # 
 # Translators:
 # Uğur KUYU <ukuyu34@gmail.com>, 2015
-# bit deneme
 msgid ""
 msgstr ""
 "Project-Id-Version: GNU social\n"
